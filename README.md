@@ -4,6 +4,6 @@
 > Hackers often describe what they do as playfully creative problem solving.
 >  ~Heather Brooke
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development with java for APIs
 - 👯 I’m looking to collaborate on open-source software that could improve communities
 - 📫 How to reach me: [LinkendIn](https://www.linkedin.com/in/flaviogoecking/)
